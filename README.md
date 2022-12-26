@@ -1,0 +1,2 @@
+# curConv
+simple currencies converter
